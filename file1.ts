@@ -10,5 +10,6 @@ if(x>y)
 }
 else
 {
-    console.log("jasdlkjalk");
+     console.log("dksahkdjlk");
+     console.log("dmadsl");
 }
