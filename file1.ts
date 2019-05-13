@@ -9,5 +9,13 @@ if(x>y)
 }
 else
 {
-    console.log("jasdlkjalk");
+    var userInput = prompt('Please enter your name.');
+    if (userInput= "vijaya")
+    {
+        console.log("ok")
+
+    }
+    else{
+        console.log("incorrect name");
+    }
 }
